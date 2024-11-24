@@ -1,6 +1,6 @@
 # patch: /path/to/GRAZPEDWRI-DX/data
-path: 'E:/GRAZPEDWRI-DX/data'
-train: 'images/train_aug'
+path: '/content/ultralytics/GRAZPEDWRI-DX/data'
+train: 'images/train'
 val: 'images/valid'
 test: 'images/test'
 
